@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BOREN_ON	C:\Users\TienDat\Desktop\Actor200913Dev\MPLAB_tutorial_pic24\blink led\blink.c	6;"	v	line:6
+POSCMD_HS	C:\Users\TienDat\Desktop\Actor200913Dev\MPLAB_tutorial_pic24\blink led\blink.c	5;"	v	line:5
+WDTPS_PS512	C:\Users\TienDat\Desktop\Actor200913Dev\MPLAB_tutorial_pic24\blink led\blink.c	4;"	v	line:4
+i	C:\Users\TienDat\Desktop\Actor200913Dev\MPLAB_tutorial_pic24\blink led\blink.c	10;"	l	line:10
+k	C:\Users\TienDat\Desktop\Actor200913Dev\MPLAB_tutorial_pic24\blink led\blink.c	10;"	l	line:10
+main	C:\Users\TienDat\Desktop\Actor200913Dev\MPLAB_tutorial_pic24\blink led\blink.c	8;"	f	line:8	signature:(void)

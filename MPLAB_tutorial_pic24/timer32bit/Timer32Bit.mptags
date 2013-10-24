@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BOREN_ON	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\timer32bit\timer32bit.c	6;"	v	line:6
+CLOCK_DIVIDER_SETTING::0x0020	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\timer32bit\timer32bit.c	10;"	d	line:10	file:
+InitTimer32Bit	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\timer32bit\timer32bit.c	15;"	p	line:15	file:	signature:(void)
+InitTimer32Bit	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\timer32bit\timer32bit.c	30;"	f	line:30	signature:(void)
+ONE_SECOND::62500	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\timer32bit\timer32bit.c	11;"	d	line:11	file:
+POSCMD_HS	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\timer32bit\timer32bit.c	5;"	v	line:5
+WDTPS_PS512	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\timer32bit\timer32bit.c	4;"	v	line:4
+_T3Interrupt	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\timer32bit\timer32bit.c	49;"	f	line:49	signature:(void)
+main	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\timer32bit\timer32bit.c	16;"	f	line:16
+period	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\timer32bit\timer32bit.c	13;"	v	line:13

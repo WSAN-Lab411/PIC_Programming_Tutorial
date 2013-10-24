@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BAUD_RATE::19200	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\define.h	20;"	d	line:20
+BOREN_ON	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\uart2.c	6;"	v	line:6
+CLOCK_FREQ::8000000	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\define.h	19;"	d	line:19
+DEFINE_H	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\define.h	9;"	d	line:9
+POSCMD_HS	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\uart2.c	5;"	v	line:5
+Printf	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\define.h	24;"	p	line:24	signature:(const char* string)
+Printf	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\src.c	19;"	f	line:19	signature:(const char* string)
+ReceiveFlag	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\uart2.c	9;"	v	line:9
+UART2BRG::(CLOCK_FREQ/2/16)/BAUD_RATE-1	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\define.h	21;"	d	line:21
+UART2Init	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\define.h	23;"	p	line:23	signature:(void)
+UART2Init	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\src.c	2;"	f	line:2	signature:(void)
+UART2Put	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\define.h	25;"	p	line:25	signature:(unsigned char c)
+UART2Put	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\src.c	27;"	f	line:27	signature:(unsigned char c)
+UART2_data	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\uart2.c	9;"	v	line:9
+USE_FUNCTION_AVAILABLE	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\define.h	13;"	d	line:13
+WDTPS_PS512	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\uart2.c	4;"	v	line:4
+_U2RXInterrupt	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\uart2.c	83;"	f	line:83	signature:(void)
+c	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\src.c	21;"	l	line:21
+main	C:\Users\TienDat\Desktop\Actor200813\MPLAB_tutorial_pic24\uart2\uart2.c	11;"	f	line:11	signature:(void)
