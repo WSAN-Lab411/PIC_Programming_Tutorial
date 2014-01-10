@@ -21,8 +21,10 @@ int main()
     CLKDIV = 0x0000;//Fcy = Fosc/2
     
 	InitTimer32Bit();
-	TRISFbits.TRISF3 = 0;
-	LATFbits.LATF3 = 1;
+//	TRISFbits.TRISF3 = 0;
+//	LATFbits.LATF3 = 1;
+	TRISEbits.TRISE4 = 0;
+	LATEbits.LATE4 = 1;
 	while(1);
 	return 0;
 }
@@ -49,5 +51,6 @@ void InitTimer32Bit(void)
 void _ISR __attribute__((interrupt, auto_psv)) _T3Interrupt(void)
 {
 	IFS0bits.T3IF = 0;
-	LATFbits.LATF3 = ~LATFbits.LATF3;
+	//LATFbits.LATF3 = ~LATFbits.LATF3;
+	LATEbits.LATE4 = ~LATEbits.LATE4;
 }
